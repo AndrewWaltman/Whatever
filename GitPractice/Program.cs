@@ -7,6 +7,7 @@ namespace GitPractice
         static void Main(string[] args)
         {
             Console.WriteLine("GitHub Practice!");
+            Console.WriteLine("What a change!");
         }
     }
 }
